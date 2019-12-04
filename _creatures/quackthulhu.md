@@ -28,10 +28,10 @@ armor_class: "18 (natural armor)"
 
 ***Multiattack.*** Quackthulhu makes 4 attacks, one of which can be an Infect attack.
 
-***Tentacle.*** Melee Weapon Attack, +11 to hit, reach 15 ft., one target. Hit: 21 (3d8 + 6) bludgeoning damage, and the target must
+***Tentacle.*** Melee Weapon Attack, +11 to hit, reach 15 ft., one target. Hit: 20 (3d8 + 7) bludgeoning damage, and the target must
 succeed on a DC 15 Strength saving throw or become grappled.  Quackthulhu has four tentacles.
 
-***Infect.*** Melee Weapon Attack, +11 to hit, reach 5 ft., one target who is grappled.  Hit: 18 (3d6 + 6) piercing damage, and the target
+***Infect.*** Melee Weapon Attack, +11 to hit, reach 5 ft., one target who is grappled.  Hit: 17 (3d6 + 7) piercing damage, and the target
 must succeed on a DC Constitution saving throw or become poisoned for one hour.  While poisoned in this way, the target is considered infected.
 
 ***Soul-wrenching Quack (Recharge 6).*** All creatures within 60 ft. of Quackthulhu must succeed on a DC 16 Wisdom saving throw or become
