@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Bebilith"
-tags: [huge, fiend, cr11, homebrew]
+tags: [large, fiend, cr11, homebrew]
 cha: 13 (+1)
 wis: 13 (+1)
 int: 11 (+0)
 con: 23 (+6)
 dex: 12 (+1)
 str: 24 (+7)
-size: Huge fiend (demon)
+size: Large fiend (demon)
 alignment: chaotic evil
 challenge: "11 (7,200 XP)"
 languages: "understands Abyssal but can't speak; telepathy 100 ft."
