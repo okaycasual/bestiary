@@ -30,6 +30,7 @@ forcing each creature in the area to make a DC 12
 Dexterity saving throw, taking 4 (1d8) fire damage
 plus 4 (1d8) bludgeoning damage on a failed save, or
 half as much on a successful one.
+
 If the automaton is killed, the fuse remains lit,
 potentially setting off the explosion after its death. If
 another creature hits the automaton with an
