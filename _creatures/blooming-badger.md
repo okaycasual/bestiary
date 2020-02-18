@@ -10,7 +10,7 @@ dex: 12 (+1)
 str: 4 (-3)
 size: Tiny beast
 alignment: unaligned
-challenge: "1/4 (55 XP)"
+challenge: "1/4 (50 XP)"
 languages: "--"
 senses: "darkvision 30ft., passive Perception 11"
 speed: "20 ft., burrow 5 ft."
