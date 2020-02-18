@@ -13,7 +13,7 @@ alignment: chaotic evil
 challenge: "8 (3,900 XP)"
 languages: "all, telepathy 120 ft."
 skills: "Insight +6, Perception +7"
-senses: "darkvision 60ft., passive Perception 8"
+senses: "darkvision 120ft., passive Perception 17"
 saving_throws: "Dex +7, Wis +7, Cha +6"
 damage_resistances: "necrotic; bludgeoning, piercing, and slashing from nonmagical weapons"
 condition_immunities: "charmed, exhausted, frightened"
