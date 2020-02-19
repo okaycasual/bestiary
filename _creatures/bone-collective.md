@@ -27,9 +27,9 @@ armor_class: "17 (natural armor)"
 
 ***Innate Spellcasting.*** The bone collective's innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
 
-At will: chill touch
+* At will: <i>chill touch</i>
 
-3/day: animate dead (up to 5 skeletons or zombies)
+* 3/day: <i>animate dead </i>(up to 5 skeletons or zombies)
 
 ***Swarm.*** A bone collective can act as a swarm (composed of smaller elements), or it can grant a single member (called an exarch) control, acting as a singular creature. Changing between forms takes one action. In its singular form, the collective can't occupy the same space as another creature, but it can perform sneak attacks and cast spells. In swarm form, the bone collective can occupy another creature's space and vice versa, and it can move through openings at least 1 foot square. It can't change to singular form while it occupies the same space as another creature. It uses its skills normally in either form.
 
