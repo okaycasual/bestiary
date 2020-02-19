@@ -27,13 +27,13 @@ armor_class: "14 (natural armor)"
 
 ***Innate Spellcasting.*** The mallqui's innate spellcasting ability is Wisdom (spell save DC 15, +7 to hit with spell attacks). It can cast the following spells, requiring no material components:
 
-At will: druidcraft, produce flame
+* At will: <i>druidcraft, produce flame</i>
 
-4/day each: create or destroy water, entangle
+* 4/day each: <i>create or destroy water, entangle</i>
 
-2/day: locate animals or plants
+* 2/day: <i>locate animals or plants</i>
 
-1/day each: dispel magic, plant growth, wind wall
+* 1/day each: <i>dispel magic, plant growth, wind wall</i>
 
 ***Water Sensitivity.*** The flesh of a mallqui putrefies and dissolves rapidly when soaked with water in the following ways:
 
@@ -56,4 +56,3 @@ Alternatively, the saving throw and DC of the spell used to conjure or control t
 ***Xeric Aura.*** All creatures within 20 feet of the mallqui must succeed on a DC 15 Constitution saving throw or take 11 (2d10) necrotic damage and gain a level of exhaustion. A creature becomes immune to the mallqui's xeric aura for the next 24 hours after making a successful save against it.
 
 ***Xeric Blast.*** Ranged Spell Attack: +7 to hit, range 30/90 ft., one target. Hit: 13 (3d6 + 3) necrotic damage.
-
