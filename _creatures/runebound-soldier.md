@@ -7,7 +7,7 @@ wis: 8 (-1)
 int: 8 (-1)
 con: 12 (+1)
 dex: 12 (+1)
-str: 25 (+2)
+str: 15 (+2)
 size: Medium humanoid (human)
 alignment: chaotic evil
 challenge: "1 (200 XP)"
