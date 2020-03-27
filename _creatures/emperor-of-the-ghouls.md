@@ -27,25 +27,25 @@ armor_class: "20 (natural armor)"
 
 ***Spellcasting.*** The emperor is a 17th-level spellcaster. His spellcasting attribute is Charisma (spell save DC 19, +11 to hit with spell attacks). The emperor knows the following sorcerer spells:
 
-Cantrips (at will): blade ward, chill touch, message, prestidigitation, shocking grasp, true strike
+* Cantrips (at will): <i>blade ward, chill touch, message, prestidigitation, shocking grasp, true strike</i>
 
-1st level (4 slots): magic missile, shield
+* 1st level (4 slots): <i>magic missile, shield</i>
 
-2nd level (3 slots): mirror image, phantasmal force
+* 2nd level (3 slots): <i>mirror image, phantasmal force</i>
 
-3rd level (3 slots): fear, fireball
+* 3rd level (3 slots): <i>fear, fireball</i>
 
-4th level (3 slots): blight, dimension door
+* 4th level (3 slots): <i>blight, dimension door</i>
 
-5th level (2 slots): cloudkill, hold monster
+* 5th level (2 slots): <i>cloudkill, hold monster</i>
 
-6th level (1 slot): circle of death
+* 6th level (1 slot): <i>circle of death</i>
 
-7th level (1 slot): finger of death, teleport
+* 7th level (1 slot): <i>finger of death, teleport</i>
 
-8th level (1 slot): power word stun
+* 8th level (1 slot): <i>power word stun</i>
 
-9th level (1 slot): power word kill
+* 9th level (1 slot): <i>power word kill</i>
 
 ***Sunlight Sensitivity.*** While in direct sunlight, the emperor has disadvantage on attack rolls and Wisdom (Perception) checks that rely on sight.
 
