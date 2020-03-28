@@ -27,7 +27,9 @@ armor_class: "17 (natural armor)"
 ***Interdimensional Movement.*** A quelaunt can innately cast <i>misty step</i> as a bonus action once per round.
 
 ***Alien Mind.*** The quelaunt’s thoughts are unreadable, and any creature attempting
-to mentally interact with it must make a DC 15 Intelligence saving throw or take 10 (2d6 + 3) psychic damage.
+to mentally interact with it must make a DC 17 Intelligence saving throw or take 10 (2d6 + 3) psychic damage.
+
+***Aura of Fear.*** The quelaunt mentally assaults the mind of all hostile creatures it can see, filling their heads with insane mutterings and preying upon their fears and negative emotions.  If a creature starts its turn within 20 ft. of the quelaunt, it must make a DC 17 Wisdom saving throw or be frightened for 1 minute.  The target may repeat the saving throw at the end of each of its turns, ending the effect on a success.  Creatures who succeed on the saving throw are immune to this effect for 24 hours. 
 
 ***Legendary Resistance (2/day).*** If the quelaunt fails a saving throw, it can choose to succeed instead.
 
