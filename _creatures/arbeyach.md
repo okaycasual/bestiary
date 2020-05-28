@@ -31,11 +31,11 @@ armor_class: "17 (natural armor)"
 
 ***Innate Spellcasting.*** Arbeyach's spellcasting ability is Charisma (spell save DC 22, +14 to hit with spell attacks). Arbeyach can innately cast the following spells, requiring no material components:
 
-At will: poison spray
+* At will: <i>poison spray</i>
 
-3/day each: fog cloud, stinking cloud
+* 3/day each: <i>fog cloud, stinking cloud</i>
 
-1/day each: cloudkill, contagion, insect plague
+* 1/day each: <i>cloudkill, contagion, insect plague</i>
 
 ***Fear Aura.*** Any creature hostile to Arbeyach that starts its turn within 20 feet of it must make a DC 22 Wisdom saving throw, unless Arbeyach is incapacitated. On a failed save, the creature is frightened until the start of its next turn. If a creature's saving throw is successful, the creature is immune to Arbeyach's Fear Aura for the next 24 hours.
 
@@ -62,4 +62,3 @@ At will: poison spray
 ***Poison.*** Arbeyach targets a creature within 120 feet. If the target isn't poisoned, it must make a DC 22 Constitution saving throw or become poisoned. The poisoned target repeats the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ***Spell (Costs 2 Actions).*** Arbeyach casts a spell.
-
