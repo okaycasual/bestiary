@@ -26,11 +26,11 @@ armor_class: "15"
 
 ***Innate Spellcasting.*** The aridni's innate spellcasting ability is Charisma (spell save DC 14). It can innately cast the following spells:
 
-At will: dancing lights, detect magic, invisibility
+* At will: <i>dancing lights, detect magic, invisibility</i>
 
-3/day: charm person, faerie fire, mage armor
+* 3/day: <i>charm person, faerie fire, mage armor</i>
 
-1/day: spike growth
+* 1/day: <i>spike growth</i>
 
 ### Actions
 
@@ -40,11 +40,11 @@ At will: dancing lights, detect magic, invisibility
 
 ***Slaver Arrows.*** An aridni can add a magical effect in addition to the normal damage done by its arrows. If so, the aridni chooses from the following effects:
 
-***.*** Confusion. The target must succeed on a DC 14 Wisdom saving throw or become confused (as the spell) for 2d4-1 rounds.
+* **Confusion.** The target must succeed on a DC 14 Wisdom saving throw or become confused (as the spell) for 2d4-1 rounds.
 
-***.*** Fear. The target must succeed on a DC 14 Wisdom saving throw or become frightened for 2d4 rounds.
+* **Fear.** The target must succeed on a DC 14 Wisdom saving throw or become frightened for 2d4 rounds.
 
-***.*** Hideous Laughter. The target must succeed on a DC 14 Wisdom saving throw or become incapacitated for 2d4 rounds. While incapacitated, the target is prone and laughing uncontrollably.
+* **Hideous Laughter.** The target must succeed on a DC 14 Wisdom saving throw or become incapacitated for 2d4 rounds. While incapacitated, the target is prone and laughing uncontrollably.
 
-***.*** Sleep. The target must succeed on a DC 14 Wisdom saving throw or fall asleep for 2d4 minutes. The creature wakes up if it takes damage or if another creature takes an action to shake it awake.
+* **Sleep.** The target must succeed on a DC 14 Wisdom saving throw or fall asleep for 2d4 minutes. The creature wakes up if it takes damage or if another creature takes an action to shake it awake.
 
