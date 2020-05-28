@@ -28,7 +28,7 @@ armor_class: "16 (natural armor)"
 
 ***Innate Spellcasting.*** The apau perape is an innate spellcaster. Its spellcasting ability is Charisma (spell save DC 13). The apau perape can innately cast the following spells, requiring no material components:
 
-1/day each: fear, wall of fire
+* 1/day each: <i>fear, wall of fire</i>
 
 ***Magic Resistance.*** The apau perape has advantage on saving throws against spells and other magical effects.
 
