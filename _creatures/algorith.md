@@ -27,11 +27,11 @@ armor_class: "18 (natural armor)"
 
 ***Innate Spellcasting.*** The algorith's innate spellcasting ability is Charisma (spell save DC 16). It can innately cast the following spells, requiring no material components:
 
-At will: aid, blur, detect magic, dimension door
+* At will: <i>aid, blur, detect magic, dimension door</i>
 
-5/day each: dispel magic
+* 5/day each: <i>dispel magic</i>
 
-1/day: commune (5 questions), wall of force
+* 1/day: <i>commune </i>(5 questions)<i>, wall of force</i>
 
 ### Actions
 
