@@ -27,9 +27,9 @@ armor_class: "14"
 
 ***Innate Spellcasting.*** The umbral vampire's innate spellcasting ability is Charisma (spell save DC 15). The umbral vampire can innately cast the following spells, requiring no material components:
 
-At will: mirror image, plane shift (plane of shadows only)
+* At will: <i>mirror image, plane shift </i>(plane of shadows only)
 
-1/day each: bane (when in dim light or darkness only), black tentacles
+* 1/day each: <i>bane </i>(when in dim light or darkness only)<i>, black tentacles</i>
 
 ***Shadow Blend.*** When in dim light or darkness, the umbral vampire can Hide as a bonus action, even while being observed.
 
