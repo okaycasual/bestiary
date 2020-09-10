@@ -32,7 +32,7 @@ when it flies out of an enemies reach.
 ***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft.,
 one creature. Hit: 5 (1d6 +2) piercing damage.
 
-## Bonus Actions
+### Bonus Actions
 
 ***Goblin Boomer (2/Day).*** As a bonus action, the
 sky raider bat drops a ceramic pot of alchemist’s
