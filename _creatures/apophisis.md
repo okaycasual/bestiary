@@ -90,3 +90,28 @@ creatures within 100 feet who can hear that are
 not undead must make a DC 13 Constitution saving
 throw, taking 10 (3d6) necrotic damage on a failed
 save and half as much damage on a successful one.
+
+### Regional Effects
+
+The region surrounding Apophisis’ barge is warped
+by her unnatural presence, creating any of the following
+effects:
+* There’s a noticeable increase in the populations of
+bats, rats, and wolves in the region.
+* Plants wilt within 500 feet of the boat. This effect
+lasts for the next 24 hours.
+* Shadows cast within 500 feet of the lair seem abnormally
+gaunt and sometimes move and flit about
+as though alive.
+* A creeping fog clings to the ground and water
+within 500 feet of Apophisis’s lair. The fog occasionally
+takes eerie forms, such as grasping claws
+and writhing serpents.
+* Anyone traversing the water within 500 feet of
+her lair feels things pull and snag on their watercraft,
+garments, and feet while they are in or near
+the water. While this does not impede their movement,
+it is disconcerting
+
+If Apophisis is destroyed, these effects end after 2d6
+days.
