@@ -38,7 +38,7 @@ armor_class: "16 (natural armor)"
 
 ***Bone Spur.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 17 (2d12 + 4) slashing damage plus 11 (2d10) necrotic damage. If both attacks hit a single creature in the same turn, it is grappled (escape DC 10). As a bonus action, the flutterflesh can choose whether this attack does bludgeoning, piercing, or slashing damage.
 
-***Tormenting Gaze.*** A target creature within 120 feet and able to see the flutterflesh takes 18 (4d8) psychic damage and is paralyzed for 1d4 rounds, or takes half damage and isn't paralyzed with a successful DC 15 Wisdom saving throw. Tormenting gaze can't be used against the same target twice in a single turn.
+***Tormenting Gaze.*** A target creature within 120 feet and able to see the flutterflesh must make a DC 15 Wisdom saving throw.  The creature takes 18 (4d8) psychic damage and becomes paralyzed for 1d4 rounds on a failure, and half damage and isn't paralyzed with a success . Tormenting gaze can't be used against the same target twice in a single turn.
 
 ***Slash.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage. On a critical hit, the target takes an additional 27 (5d10) slashing damage and must make a DC 12 Constitution saving throw. On a failure, the flutterflesh lops off and absorbs one of the target's limbs (chosen randomly) and heals hit points equal to the additional slashing damage it inflicted.
 
