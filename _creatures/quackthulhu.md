@@ -32,7 +32,7 @@ armor_class: "18 (natural armor)"
 succeed on a DC 15 Strength saving throw or become grappled.  Quackthulhu has four tentacles.
 
 ***Infect.*** Melee Weapon Attack, +11 to hit, reach 5 ft., one target who is grappled.  Hit: 17 (3d6 + 7) piercing damage, and the target
-must succeed on a DC Constitution saving throw or become poisoned for one hour.  While poisoned in this way, the target is considered infected.
+must succeed on a DC 15 Constitution saving throw or become poisoned for one hour.  While poisoned in this way, the target is considered infected.
 
 ***Soul-wrenching Quack (Recharge 6).*** All creatures within 60 ft. of Quackthulhu must succeed on a DC 16 Wisdom saving throw or become
 paralyzed until the end of Quackthulhu's next turn.
