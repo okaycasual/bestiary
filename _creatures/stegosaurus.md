@@ -18,4 +18,4 @@ armor_class: "13 (natural armor)"
 
 ### Actions
 
-***Tail.*** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 26 (6d6+5) piercing damage.
+***Thagomizer.*** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 26 (6d6+5) piercing damage.
