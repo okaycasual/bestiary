@@ -1,6 +1,6 @@
 ---
 layout: creature
-name: "Ice Elemental"
+name: "Ice Elemental (Homebrew)"
 tags: [large, elemental, cr6, homebrew]
 cha: 7 (-2)
 wis: 10 (+0)
