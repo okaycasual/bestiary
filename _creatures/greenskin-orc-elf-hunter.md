@@ -28,7 +28,7 @@ and Wisdom (Survival) checks to track or notice any variety of elf or fey
 creature.
 
 ***Forest Hunter.*** When the elfhunter hits a creature with a weapon attack,
-the creature takes an extra 3 (1d6) damage.
+the creature takes an extra 3 (1d6) damage (included in the weapon damage).
 
 ***Land Stride.*** The elfhunter can move through nonmagical difficult
 terrain without using extra movement and can pass through nonmagical
@@ -49,8 +49,8 @@ the following ranger spells prepared:
 longsword or two with its longbow.
 
 ***Longsword.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit:
-7 (1d8 + 3) slashing damage or 8 (1d10 + 3) slashing damage when used
+11 (1d8 + 1d6 + 3) slashing damage or 12 (1d10 + 1d6 + 3) slashing damage when used
 with two hands.
 
 ***Longbow.*** Ranged Weapon Attack: +8 to hit, range 150/600 ft., one
-target. Hit: 9 (1d8 + 5) piercing damage.
+target. Hit: 13 (1d8 +1d6 + 5) piercing damage.
