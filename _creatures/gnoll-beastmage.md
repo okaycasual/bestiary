@@ -63,8 +63,8 @@ target. Hit: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2)
 piercing damage if used with two hands to make a
 melee attack.
 
-***Longbow (Gnoll Form Only).*** Ranged Weapon Attack: + 3
-to hit, range l50/600 ft., one target. Hit: 5 (l d8 + l)
+***Longbow (Gnoll Form Only).*** Ranged Weapon Attack: +3
+to hit, range l50/600 ft., one target. Hit: 5 (ld8 + l)
 piercing damage.
 
 ***Wild Cackle (1/Day).*** The gnoll laughs madly and swirls
