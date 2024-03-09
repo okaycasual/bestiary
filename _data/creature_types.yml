@@ -18,7 +18,7 @@
   tag: giant
 - name: Humanoids
   tag: humanoid
-  name: Minions
+- name: Minions
   tag: minion
 - name: Monstrosities
   tag: monstrosity
